@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Howdy 🤠
 
-<!--
-**kylevondra/kylevondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ I'm Kyle, and I'm a DevOps/Cloud Infrastructure engineer ✨
 
-Here are some ideas to get you started:
+💻 I do mostly work with high-performance systems and do backend development professionally, but I like to occasionally dabble in graphics, game, systems, or embedded programming on the side. 💽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😎 Pronouns are He/Him 😎
+
+🌟 I sometimes stream on [Twitch](https://twitch.tv/stackoverflo_) 📺
+
+🔗 Follow Me:
+- https://kylevondra.com
+- https://twitch.tv/stackoverflo_
+- https://twitter.com/kyle_vondra
+
