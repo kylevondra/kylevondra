@@ -1,8 +1,8 @@
 # 👋 Howdy 🤠
 
-### ✨ I'm Kyle, and I'm a DevOps/Cloud Infrastructure engineer ✨
+### ✨ I'm Kyle, and I'm a Cloud Infrastructure engineer ✨
 
-💻 I do mostly work with high-performance systems and do backend development professionally, but I like to occasionally dabble in graphics, game, systems, or embedded programming on the side. 💽
+💻 I mostly work with cloud-based high-performance IT systems and do backend development professionally, but I like to occasionally dabble in graphics, game, web, or systems programming, or whatever random thing I feel like that day 💽
 
 😎 Pronouns are He/Him 😎
 
