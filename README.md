@@ -11,5 +11,4 @@
 🔗 Follow Me:
 - https://kylevondra.com
 - https://twitch.tv/stackoverflo_
-- https://twitter.com/kyle_vondra
 
