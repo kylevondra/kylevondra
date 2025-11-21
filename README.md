@@ -1,8 +1,8 @@
 # 👋 Howdy 🤠
 
-### ✨ I'm Kyle, and I'm a Software Engineer that focuses on systems, infrastructure, and applications ✨
+### ✨ I'm Kyle, and I'm a professional software engineer that focuses on systems and infrastructure ✨
 
-### I'm just out here making things
+Outside of that, I just like to make stuff! I'll dabble in applications, games, graphics, audio, or any other silly little random projects that intereste me from time to time :)
 
 🔗 Follow Me:
 - https://kylevondra.com
