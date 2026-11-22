@@ -6,3 +6,4 @@ Outside of that, I just like to make stuff! I'll dabble in applications, games, 
 
 🔗 Follow Me:
 - https://kylevondra.com
+- **Public Forgejo: [git.kylev.network](https://git.kylev.network)**
